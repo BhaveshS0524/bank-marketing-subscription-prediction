@@ -1,24 +1,24 @@
 # Bank Marketing Subscription Prediction
 
-This project predicts whether a customer will subscribe to a bank term deposit using machine learning.
+Machine learning project predicting whether a customer will subscribe to a bank term deposit.
 
-## Project Workflow
+## Dataset
+UCI Bank Marketing Dataset
+
+## Workflow
 - Data Cleaning
 - Feature Engineering
-- Encoding Categorical Variables
 - Model Training
 - Hyperparameter Tuning
-- Model Evaluation
+- Evaluation
 
 ## Models Used
 - Logistic Regression
-- Random Forest Classifier
-
-## Tools
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab
+- Random Forest
 
 ## Result
-Random Forest model achieved ~90% accuracy.
+Random Forest achieved ~90% accuracy.
 
-## Dataset
-Bank Marketing Dataset
+## ROC Curve
+
+![ROC Curve](images/ROC_curve.png)
