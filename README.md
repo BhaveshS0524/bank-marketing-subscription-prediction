@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
 # Bank Marketing Subscription Prediction
 
 Machine learning project predicting whether a customer will subscribe to a bank term deposit.
