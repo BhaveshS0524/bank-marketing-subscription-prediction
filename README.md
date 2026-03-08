@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/BhaveshS0524/bank-marketing-subscription-prediction/blob/main/bank_marketing_ml_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BhaveshS0524/bank-marketing-subscription-prediction/blob/main/bank_marketing_ml_project.ipynb)
 # Bank Marketing Subscription Prediction
 
 Machine learning project predicting whether a customer will subscribe to a bank term deposit.
